@@ -31,9 +31,16 @@ The rendered scenes were edited together into the final cinematic, with the cuts
 
 ## Renders & Media
 
-![Render 1](Mistral_imagers/001.png)
-
-![Render 2](Mistral_imagers/002.png)
+<table>
+<tr>
+<td><img src="/Mistral_imagers/001.png" width="400"></td>
+<td><img src="/Mistral_imagers/001.png" width="400"></td>
+</tr>
+<tr>
+<td><img src="/Mistral_imagers/001.png" width="400"></td>
+<td><img src="/Mistral_imagers/001.png" width="400"></td>
+</tr>
+</table>
 
 ## Source & Credits
 
