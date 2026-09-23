@@ -1,6 +1,6 @@
 # BUGATTI MISTRAL — 3D CINEMATIC
 
-[4](10000.png)
+![4](10000.png)
 
 ## Overview
 
